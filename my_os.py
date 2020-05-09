@@ -68,7 +68,7 @@ if __name__=='__main__':
     os.path.abspath('my_os.py')
 
 
-gdgsdg
+
 
 
 
